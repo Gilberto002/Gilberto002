@@ -1,138 +1,109 @@
 <div align="center">
 
-# Hi, I'm Gilberto García
+# Hola, soy Gilberto García 👋
 
-### Senior Software Developer | Healthcare Technology | AI Engineering
+### Senior Software Developer · Healthcare Technology · AI Engineering
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Software+Developer;Building+Healthcare+Technology;Laravel+%7C+PHP+%7C+SQL+Server;Artificial+Intelligence+Enthusiast;Creating+scalable+digital+solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Healthcare+Technology;Laravel+%7C+PHP+%7C+SQL+Server;Designing+Scalable+Backend+Systems;Exploring+AI+Engineering+%26+Automation;Turning+Real+Problems+Into+Software" alt="Typing SVG" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Gilberto002&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<a href="https://github.com/Gilberto002">
+  <img src="https://komarev.com/ghpvc/?username=Gilberto002&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</a>
 
 </div>
 
 ---
 
-## About Me
+## 🧑‍⚕️ Sobre mí
+
+Diseño y construyo software para el sector salud: desde sistemas clínicos y de telemedicina hasta plataformas SaaS de cumplimiento regulatorio. Mi trabajo conecta backend robusto, integraciones de hardware médico e inteligencia artificial aplicada, con un objetivo claro: **sistemas que resuelven problemas operativos reales y generan valor medible para el negocio.**
 
 ```php
 <?php
 
-$developer = [
-    'name'       => 'Gilberto García',
-    'role'       => 'Senior Software Developer',
-    'location'   => 'Mexico',
-    'focus'      => [
-        'Healthcare Technology',
-        'Backend Development',
-        'Artificial Intelligence',
-        'Business Automation',
-        'SaaS Platforms'
-    ],
-    'currently_learning' => [
-        'AI Engineering',
-        'Python',
-        'Cloud Architecture',
-        'System Design'
-    ]
+$gilberto = [
+    'role'     => 'Senior Software Developer',
+    'based_in' => 'México',
+    'focus'    => ['Healthcare Tech', 'Backend Architecture', 'AI Engineering', 'SaaS Platforms'],
+    'building' => 'Software que ayuda a personas reales, no solo demos bonitas',
 ];
 ```
 
-I build software solutions focused on healthcare, business process automation, backend architecture and artificial intelligence.
+---
 
-My professional objective is to design scalable systems that solve real operational problems and generate measurable business value.
+## 🚀 En qué estoy trabajando ahora
+
+- 🏥 Plataformas de gestión para el sector salud (consulta, expediente, telemedicina)
+- 📋 SaaS de cumplimiento **NOM-035** para evaluación de riesgo psicosocial
+- 🤖 Integración de kioscos médicos, telemedicina y sistemas de vending
+- 🗂️ Sistema empresarial de gestión documental (permisos, versionado, auditoría)
+- 🧠 Asistentes de IA, automatización de procesos y voz aplicada al negocio
 
 ---
 
-## Current Work
+## 🛠️ Stack tecnológico
 
-* Developing healthcare management platforms.
-* Building a SaaS platform for NOM-035 compliance.
-* Integrating medical kiosks, telemedicine and vending systems.
-* Creating enterprise document management solutions.
-* Exploring AI assistants, automation and voice technologies.
-
----
-
-## Technology Stack
-
-### Backend
-
+**Backend**
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python" />
 </p>
 
-### Frontend
-
+**Frontend**
 <p>
   <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,vue,react" />
 </p>
 
-### Databases
-
+**Bases de datos**
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
   <img height="48" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-### Tools and Infrastructure
-
+**Herramientas e infraestructura**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
 </p>
 
 ---
 
-## Featured Projects
+## 💼 Proyectos destacados
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### NOM-035 SaaS
+### 🩺 NOM-035 SaaS
+Plataforma empresarial para evaluación de riesgo psicosocial y cumplimiento regulatorio, usada por múltiples organizaciones para gestionar su obligación normativa de forma automatizada.
 
-Enterprise platform for managing psychosocial risk assessments and regulatory compliance.
-
-**Technologies**
-
-`Laravel` `PHP` `MySQL` `Bootstrap` `JavaScript`
+**Stack:** `Laravel` `PHP` `MySQL` `Bootstrap` `JavaScript`
 
 </td>
 <td width="50%" valign="top">
 
-### Healthcare Systems
+### 🏥 Healthcare Systems
+Sistemas clínicos para consulta médica, expediente dental, telemedicina y gestión de pacientes, integrados con APIs de salud.
 
-Development of clinical systems for medical consultations, dental records, telemedicine and patient management.
-
-**Technologies**
-
-`PHP` `SQL Server` `JavaScript` `Healthcare APIs`
+**Stack:** `PHP` `SQL Server` `JavaScript` `Healthcare APIs`
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### Medical Kiosk and Vending
+### 💊 Kiosco médico y vending
+Integración de hardware médico, teleconsulta, recetas y dispensado de medicamentos con sistemas de vending automatizados.
 
-Integration of medical devices, teleconsultation, prescriptions, medication delivery and vending hardware.
-
-**Technologies**
-
-`Android` `RS232` `APIs` `PHP` `SQL Server`
+**Stack:** `Android` `RS232` `APIs` `PHP` `SQL Server`
 
 </td>
 <td width="50%" valign="top">
 
-### Document Management System
+### 🗂️ Gestión documental empresarial
+Plataforma para organización de documentos, permisos granulares, control de versiones y auditoría de actividad.
 
-Enterprise platform for document organization, permissions, version control and activity auditing.
-
-**Technologies**
-
-`Laravel` `MySQL` `Bootstrap` `JavaScript`
+**Stack:** `Laravel` `MySQL` `Bootstrap` `JavaScript`
 
 </td>
 </tr>
@@ -140,27 +111,18 @@ Enterprise platform for document organization, permissions, version control and 
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gilberto002&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilberto002&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
-</div>
-
 <br>
-
-<div align="center">
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Gilberto002&theme=github-dark-blue&hide_border=true" />
 
 </div>
-
----
-
-## Contribution Activity
 
 <div align="center">
 
@@ -170,51 +132,35 @@ Enterprise platform for document organization, permissions, version control and 
 
 ---
 
-## Professional Focus
+## 🎯 Objetivos 2026
 
-```text
-Healthcare Software       ████████████████████
-Backend Development       ███████████████████░
-Artificial Intelligence   ███████████████░░░░░
-Business Automation       █████████████████░░░
-Cloud Architecture        ███████████░░░░░░░░░
-```
-
----
-
-## 2026 Objectives
-
-* Strengthen my expertise in artificial intelligence engineering.
-* Build production-ready AI assistants.
-* Improve cloud architecture and DevOps capabilities.
-* Develop scalable SaaS platforms.
-* Contribute to open-source projects.
-* Continue creating technology for the healthcare sector.
+- [ ] Profundizar en ingeniería de IA aplicada
+- [ ] Llevar asistentes de IA a producción
+- [ ] Fortalecer arquitectura cloud y DevOps
+- [ ] Escalar plataformas SaaS existentes
+- [ ] Contribuir a proyectos open-source
+- [ ] Seguir construyendo tecnología para el sector salud
 
 ---
 
-## Contact
+## 📫 Contacto
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Gilberto002-181717?style=for-the-badge\&logo=github)](https://github.com/Gilberto002)
-
-<!-- Agrega tu LinkedIn cuando tengas la dirección:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gilberto_García-0A66C2?style=for-the-badge&logo=linkedin)](TU_ENLACE_DE_LINKEDIN)
--->
-
-<!-- Agrega tu portafolio cuando esté listo:
-[![Portfolio](https://img.shields.io/badge/Portfolio-GIONCORE-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](TU_ENLACE)
--->
+[![GitHub](https://img.shields.io/badge/GitHub-Gilberto002-181717?style=for-the-badge&logo=github)](https://github.com/Gilberto002)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta_conmigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU_ENLACE_DE_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-GIONCORE-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](TU_ENLACE_DE_PORTFOLIO)
 
 </div>
 
+> Reemplaza `TU_ENLACE_DE_LINKEDIN` y `TU_ENLACE_DE_PORTFOLIO` cuando los tengas listos — dejé los badges activos para que no tengas que descomentar nada.
+
 ---
 
 <div align="center">
 
-### Building technology that connects software, healthcare and artificial intelligence.
+### Construyendo tecnología que conecta software, salud e inteligencia artificial.
 
-<sub>Designed and maintained by Gilberto García</sub>
+<sub>Diseñado y mantenido por Gilberto García</sub>
 
 </div>
