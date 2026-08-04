@@ -1,59 +1,63 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,45:E8180C,100:FFFFFF&height=220&section=header&text=GILBERTO%20GARCÍA&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=SOFTWARE%20ENGINEER%20%7C%20SAAS%20%7C%20HEALTHTECH%20%7C%20AI%20AUTOMATION&descSize=15&descAlignY=58&descColor=FEE2E2&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E52521,35:0A0A0A,70:049CD8,100:FBD000&height=220&section=header&text=GILBERTO%20GARCÍA&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=%F0%9F%8D%84%20SOFTWARE%20ENGINEER%20%7C%20SAAS%20%7C%20HEALTHTECH%20%7C%20AI%20AUTOMATION%20%F0%9F%8D%84&descSize=15&descAlignY=58&descColor=FFF7D6&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=900&color=E8180C&center=true&vCenter=true&repeat=true&width=850&height=56&lines=Building+systems+that+solve+real+operations;Laravel+%7C+Vue+%7C+APIs+%7C+AI+%7C+Healthcare;From+business+problems+to+production-ready+software;SaaS+platforms+with+measurable+impact" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=15&duration=2600&pause=900&color=E52521&center=true&vCenter=true&repeat=true&width=850&height=60&lines=PRESS+START+TO+CONTINUE;Laravel+%2B+Vue+%2B+APIs+%2B+AI+%2B+Healthcare;LEVEL+UP%3A+Business+problems+%E2%86%92+Software;1UP%21+SaaS+platforms+with+real+impact" alt="Typing animation" />
 
 <br>
 
 <a href="https://github.com/Gilberto002">
-  <img src="https://komarev.com/ghpvc/?username=Gilberto002&label=PROFILE+VIEWS&color=E8180C&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Gilberto002&label=%F0%9F%8D%84+PROFILE+VIEWS&color=E52521&style=for-the-badge" />
 </a>
 
 <a href="https://github.com/Gilberto002?tab=followers">
-  <img src="https://img.shields.io/github/followers/Gilberto002?label=FOLLOWERS&style=for-the-badge&color=E8180C&labelColor=0A0A0A&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/github/followers/Gilberto002?label=%F0%9F%A7%A9+FOLLOWERS&style=for-the-badge&color=049CD8&labelColor=0A0A0A&logo=github&logoColor=FFFFFF" />
 </a>
 
 <a href="https://gioncore.com">
-  <img src="https://img.shields.io/badge/GIONCORE-ONLINE-E8180C?style=for-the-badge&labelColor=0A0A0A&logo=googlechrome&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/%F0%9F%8F%B0_GIONCORE-ONLINE-FBD000?style=for-the-badge&labelColor=0A0A0A&logo=googlechrome&logoColor=FFFFFF" />
 </a>
 
 </div>
 
 ---
 
-## About
+## 🍄 Player Info
 
 ```text
-Gilberto García
-Software Engineer · México
+█▀▀ █ █░░ █▄▄ █▀▀ █▀█ ▀█▀ █▀█   █▀▀ ▄▀█ █▀█ █▀▀ █ ▄▀█
+█▄█ █ █▄▄ █▄█ ██▄ █▀▄ ░█░ █▄█   █▄█ █▀█ █▀▄ █▄▄ █ █▀█
 
-Focus:
-SaaS platforms · Backend architecture · Healthcare technology
-AI automation · Business systems · Hardware/API integrations
+PLAYER 1: Gilberto García
+CLASS:    Software Engineer
+WORLD:    México
+
+FOCUS:
+🏗️  SaaS platforms · Backend architecture · Healthcare tech
+🤖  AI automation · Business systems · Hardware/API integrations
 ```
 
-I build practical software for companies that need reliable operations, clear data and automated workflows.
+Construyo software práctico para empresas que necesitan operaciones confiables, datos claros y flujos automatizados.
 
-My work connects backend platforms, databases, APIs, artificial intelligence and real-world business processes. I care about systems that are useful, maintainable and ready to grow.
+Mi trabajo conecta plataformas backend, bases de datos, APIs, inteligencia artificial y procesos de negocio reales. Me importa que los sistemas sean útiles, mantenibles y listos para crecer. 🪙
 
 ---
 
-## Current Focus
+## 🎮 Current Quest
 
-| Area | What I am building |
+| World 🗺️ | Objetivo |
 | --- | --- |
-| SaaS | Multi-tenant platforms, subscriptions, dashboards and operational workflows |
-| Healthcare Tech | Clinical systems, medical records, reporting and integrations |
-| AI Automation | Assistants, document processing, business automation and decision support |
-| Backend Architecture | Laravel, APIs, permissions, data models and production workflows |
-| Integrations | External APIs, SQL Server, RS232, devices and legacy systems |
+| 🏢 SaaS | Plataformas multi-tenant, suscripciones, dashboards y flujos operativos |
+| 🏥 Healthcare Tech | Sistemas clínicos, expedientes médicos, reportes e integraciones |
+| 🤖 AI Automation | Asistentes, procesamiento de documentos, automatización y soporte de decisiones |
+| ⚙️ Backend Architecture | Laravel, APIs, permisos, modelos de datos y flujos de producción |
+| 🔌 Integrations | APIs externas, SQL Server, RS232, dispositivos y sistemas legacy |
 
 ---
 
-## Technology Stack
+## 🧰 Item Box (Tech Stack)
 
-### Backend
+### 🟥 Backend
 
 <div align="center">
 
@@ -61,7 +65,7 @@ My work connects backend platforms, databases, APIs, artificial intelligence and
 
 </div>
 
-### Frontend
+### 🟦 Frontend
 
 <div align="center">
 
@@ -69,7 +73,7 @@ My work connects backend platforms, databases, APIs, artificial intelligence and
 
 </div>
 
-### Databases
+### 🟨 Databases
 
 <div align="center">
 
@@ -81,7 +85,7 @@ My work connects backend platforms, databases, APIs, artificial intelligence and
 
 </div>
 
-### Tools And Integrations
+### 🍄 Tools & Power-Ups
 
 <div align="center">
 
@@ -98,72 +102,72 @@ My work connects backend platforms, databases, APIs, artificial intelligence and
 
 ---
 
-## Featured Projects
+## 🏰 Featured Castles (Projects)
 
-### 01. NOM-035 SaaS
+### 🟥 World 1-1 · NOM-035 SaaS
 
-Enterprise SaaS platform for psychosocial risk assessments and regulatory compliance in Mexico.
+Plataforma SaaS empresarial para evaluaciones de riesgo psicosocial y cumplimiento regulatorio en México.
 
 **Capabilities**
 
-- Multi-company management
-- Official NOM-035 questionnaires
-- Automated scoring and risk classification
-- Campaigns with public evaluation links
-- Reports, audit file and action plans
-- Role-based access control
+- 🏢 Gestión multi-empresa
+- 📋 Cuestionarios oficiales NOM-035
+- 🎯 Puntuación automática y clasificación de riesgo
+- 🔗 Campañas con enlaces públicos de evaluación
+- 📊 Reportes, expediente de auditoría y planes de acción
+- 🔐 Control de acceso por roles
 
 **Stack:** `Laravel` · `Vue` · `PHP` · `MySQL` · `Inertia` · `JavaScript`
 
 <a href="https://github.com/Gilberto002/nom35-saas">
-  <img src="https://img.shields.io/badge/OPEN_REPOSITORY-0A0A0A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/%F0%9F%8F%B4_OPEN_REPOSITORY-0A0A0A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
 ---
 
-### 02. GIONCORE
+### 🟦 World 1-2 · GIONCORE
 
-Technology platform and corporate website for software development, automation and digital transformation services.
+Plataforma tecnológica y sitio corporativo para servicios de desarrollo de software, automatización y transformación digital.
 
 **Capabilities**
 
-- Corporate presence
-- Services portfolio
-- Project showcase
-- Contact and lead generation
-- Laravel and Vue architecture
+- 🏢 Presencia corporativa
+- 🗂️ Portafolio de servicios
+- 🖼️ Showcase de proyectos
+- 📩 Contacto y generación de leads
+- ⚙️ Arquitectura Laravel y Vue
 
 **Stack:** `Laravel` · `Vue` · `Blade` · `Vite` · `JavaScript`
 
 <a href="https://github.com/Gilberto002/gioncore-web">
-  <img src="https://img.shields.io/badge/OPEN_REPOSITORY-0A0A0A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/%F0%9F%8F%B4_OPEN_REPOSITORY-0A0A0A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
 ---
 
-### 03. Healthcare Systems
+### 🟨 World 1-3 · Healthcare Systems
 
-Clinical platforms for medical consultations, dental records, telemedicine, patient management and regulatory reporting.
+Plataformas clínicas para consultas médicas, expedientes dentales, telemedicina, gestión de pacientes y reportes regulatorios.
 
 **Areas:** `PHP` · `SQL Server` · `Medical APIs` · `Legacy Integration`
 
 ---
 
-### 04. Smart Medical Kiosk
+### 🍄 World 1-4 (Boss) · Smart Medical Kiosk
 
-Medical measurement, teleconsultation, prescriptions, vending flows and serial communication with physical hardware.
+Medición médica, teleconsulta, recetas, flujos de vending y comunicación serial con hardware físico.
 
 **Areas:** `Android` · `RS232` · `APIs` · `PHP` · `SQL Server`
 
 ---
 
-## GitHub Analytics
+## 📊 Coin Counter (GitHub Analytics)
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Gilberto002&show_icons=true&include_all_commits=true&count_private=false&bg_color=0A0A0A&title_color=FFFFFF&text_color=D6D6D6&icon_color=E8180C&border_color=E8180C&ring_color=E8180C" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Gilberto002&show_icons=true&include_all_commits=true&count_private=false&bg_color=0A0A0A&title_color=FBD000&text_color=D6D6D6&icon_color=E52521&border_color=049CD8&ring_color=E52521" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilberto002&layout=compact&langs_count=8&bg_color=0A0A0A&title_color=FFFFFF&text_color=D6D6D6&border_color=E8180C" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilberto002&layout=compact&langs_count=8&bg_color=0A0A0A&title_color=FBD000&text_color=D6D6D6&border_color=049CD8" />
 
 </div>
 
@@ -171,42 +175,42 @@ Medical measurement, teleconsultation, prescriptions, vending flows and serial c
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Gilberto002&background=0A0A0A&border=E8180C&stroke=FFFFFF&ring=E8180C&fire=E8180C&currStreakNum=FFFFFF&sideNums=D6D6D6&currStreakLabel=E8180C&sideLabels=FFFFFF&dates=8B8B8B" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Gilberto002&background=0A0A0A&border=049CD8&stroke=FFFFFF&ring=E52521&fire=FBD000&currStreakNum=FFFFFF&sideNums=D6D6D6&currStreakLabel=E52521&sideLabels=FFFFFF&dates=8B8B8B" />
 
 </div>
 
-> GitHub language statistics only represent code available in public repositories.
+> 🪙 Las estadísticas de lenguajes solo reflejan código disponible en repositorios públicos.
 
 ---
 
-## Engineering Principles
+## 🎯 Engineering Principles
 
 ```javascript
 const engineering = {
-  architecture: "Build maintainable systems",
-  security: "Protect information by design",
-  quality: "Validate before deployment",
-  automation: "Remove repetitive operational work",
-  product: "Solve real business problems",
-  impact: "Measure value beyond the code"
+  architecture: "🏗️ Build maintainable systems",
+  security: "🛡️ Protect information by design",
+  quality: "✅ Validate before deployment",
+  automation: "🤖 Remove repetitive operational work",
+  product: "🎯 Solve real business problems",
+  impact: "🏆 Measure value beyond the code"
 };
 ```
 
 ---
 
-## 2026 Roadmap
+## 🗺️ 2026 World Map (Roadmap)
 
 ```text
-SaaS Architecture          [████████████████░░░░]
-Healthcare Technology      [███████████████░░░░░]
-Business Automation        [██████████████░░░░░░]
-Artificial Intelligence    [████████████░░░░░░░░]
-Cloud and DevOps           [██████████░░░░░░░░░░]
+🏢 SaaS Architecture          [████████████████░░░░]
+🏥 Healthcare Technology      [███████████████░░░░░]
+🤖 Business Automation        [██████████████░░░░░░]
+🧠 Artificial Intelligence    [████████████░░░░░░░░]
+☁️ Cloud and DevOps           [██████████░░░░░░░░░░]
 ```
 
 ---
 
-## Connect
+## 🚩 Reach the Flagpole (Connect)
 
 <div align="center">
 
@@ -215,7 +219,7 @@ Cloud and DevOps           [██████████░░░░░░░�
 </a>
 
 <a href="https://gioncore.com">
-  <img src="https://img.shields.io/badge/WEBSITE-GIONCORE-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/WEBSITE-GIONCORE-049CD8?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" />
 </a>
 
 <!-- Add LinkedIn when ready:
@@ -230,18 +234,18 @@ Cloud and DevOps           [██████████░░░░░░░�
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=17&duration=3500&pause=1200&color=E8180C&center=true&vCenter=true&repeat=true&width=760&lines=Designing+software+for+real+operations.;Building+SaaS%2C+healthtech+and+automation+systems.;Ready+for+the+next+production+challenge." alt="Status animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=13&duration=3500&pause=1200&color=FBD000&center=true&vCenter=true&repeat=true&width=760&lines=THANK+YOU+MARIO%21;BUT+THE+PROJECT+IS+IN+ANOTHER+REPO...;READY+FOR+THE+NEXT+PRODUCTION+CHALLENGE." alt="Status animation" />
 
 <br>
 
-<img src="https://img.shields.io/badge/BACKEND-READY-E8180C?style=flat-square&labelColor=0A0A0A" />
-<img src="https://img.shields.io/badge/SAAS-BUILDING-E8180C?style=flat-square&labelColor=0A0A0A" />
-<img src="https://img.shields.io/badge/AI-AUTOMATION-E8180C?style=flat-square&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/%F0%9F%8D%84_BACKEND-READY-E52521?style=flat-square&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F_SAAS-BUILDING-049CD8?style=flat-square&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/%F0%9F%A7%A0_AI-AUTOMATION-FBD000?style=flat-square&labelColor=0A0A0A" />
 
 <br><br>
 
-<sub>Designed and maintained by Gilberto García · México</sub>
+<sub>🎮 Designed and maintained by Gilberto García · México</sub>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,45:E8180C,100:0A0A0A&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FBD000,35:049CD8,70:0A0A0A,100:E52521&height=120&section=footer" />
