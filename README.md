@@ -35,13 +35,24 @@ My work connects backend platforms, databases, APIs, artificial intelligence and
 
 ## Stack
 
-**Backend** &nbsp;PHP · Laravel · Node.js · Express · Python
+<div align="center">
 
-**Frontend** &nbsp;JavaScript · Vue · React · HTML · CSS
+[![Backend](https://skillicons.dev/icons?i=php,laravel,nodejs,express,python&theme=light)](https://skillicons.dev)
 
-**Data** &nbsp;MySQL · PostgreSQL · SQLite · Microsoft SQL Server
+[![Frontend](https://skillicons.dev/icons?i=js,vue,react,html,css&theme=light)](https://skillicons.dev)
 
-**Tools** &nbsp;Git · Docker · Linux · REST APIs · OpenAI · Twilio
+[![Data](https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=light)](https://skillicons.dev)
+
+[![Tools](https://skillicons.dev/icons?i=git,docker,linux,postman,vscode&theme=light)](https://skillicons.dev)
+
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/badge/REST_APIs-f5f5f5?style=flat-square&logo=fastapi&logoColor=1a1a1a" />
+<img src="https://img.shields.io/badge/OpenAI-f5f5f5?style=flat-square&logo=openai&logoColor=1a1a1a" />
+<img src="https://img.shields.io/badge/Twilio-f5f5f5?style=flat-square&logo=twilio&logoColor=1a1a1a" />
+<img src="https://img.shields.io/badge/SQL_Server-f5f5f5?style=flat-square&logo=microsoftsqlserver&logoColor=1a1a1a" />
+</div>
 
 <br>
 
