@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gilberto García
+# Gilberto Garcia
 
 ### **Software Engineer | SaaS · Healthtech · AI Automation**
 
