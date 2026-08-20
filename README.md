@@ -2,7 +2,7 @@
 
 # Gilberto Garcia
 
-### **Software Engineer | SaaS · Healthtech · AI Automation**
+### **Software Engineer**
 
 *Sistemas backend orientados a la optimización de operaciones complejas de negocio.*
 
